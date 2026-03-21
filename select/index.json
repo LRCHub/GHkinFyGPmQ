@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "放送室",
   "base_artist": "星街すいせい",
-  "createdAt": "2026-03-21T00:13:58.516824Z",
+  "createdAt": "2026-03-21T00:17:39.854657Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -59,6 +59,15 @@
       "artist": "星街すいせい",
       "has_synced": true,
       "path": "select/localdb_01_放送室_星街すいせい.lrc",
+      "repo_name": "GHkinFyGPmQ"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "放送室",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/localdb_02_放送室_星街すいせい.lrc",
       "repo_name": "BP59Bm6T3_I"
     }
   ]
